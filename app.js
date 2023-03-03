@@ -1,6 +1,6 @@
 const express = require("express")
 const rotaLivro = require("./rotas/livro")
-const rotaFavorito = require("./rotas/livro")
+const rotaFavorito = require("./rotas/favorito")
 
 const cors = require("cors")
 
